@@ -37,7 +37,6 @@ func load_b_questions() -> void:
 	"Who is universal desing useful for?",
 	"Where can you find products with a universal design?",
 	"Can you give one example of universal deign?",
-	"Why can people understand universal design signs easily?"
 		
 	]
 
